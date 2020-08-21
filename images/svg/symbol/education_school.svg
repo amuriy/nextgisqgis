@@ -32,8 +32,8 @@
 		</inkscape:perspective>
 </defs>
 <g id="layer3" transform="matrix(48.14969,0,0,48.14969,-536.27327,-33.306752)" inkscape:label="Layout" display="none">
-	<rect id="rect4134" x="1" y="1" display="inline" fill="none" stroke="#757575" stroke-width="0.1" width="10" height="10"/>
-	<rect id="rect4136" x="2" y="2" display="inline" fill="none" stroke="#757575" stroke-width="0.1" width="8" height="8"/>
+	<rect id="rect4134" x="1" y="1" display="inline" fill="none" stroke="#FF0000" stroke-width="0.1" width="10" height="10"/>
+	<rect id="rect4136" x="2" y="2" display="inline" fill="none" stroke="#FF0000" stroke-width="0.1" width="8" height="8"/>
 </g>
 <g id="path3526" opacity="0.75" enable-background="new    ">
 	<path fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)" d="M109.528,524.094c-1.958,0-3.949-0.376-5.871-1.17
